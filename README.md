@@ -1,2 +1,2 @@
 # test-repository
-SeleniumWD Python
+SeleniumWD Python 12
